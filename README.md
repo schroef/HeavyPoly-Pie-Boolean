@@ -9,7 +9,7 @@ HP Pie Boolean is a <b>[Blender](https://www.blender.org)</b> add-on to quickly 
 >Preview of popup Boolean menu
 
 
-## Workdflow
+## Workflow
 
 Take a look at this video and see how this menu works
 
