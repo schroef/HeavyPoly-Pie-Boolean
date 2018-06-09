@@ -2,11 +2,18 @@
 
 HP Pie Boolean is a <b>[Blender](https://www.blender.org)</b> add-on to quickly use booleans either in edit mode or object mode. This code is originally developed by Vaughan Ling, he has some more excellent tools you can find at <b>[gumroad.com/vling](https://gumroad.com/vling)</b>
 
-!['Pie Boolean Menu'](https://raw.githubusercontent.com/wiki/schroef/heavypoly-pie-boolean/images/bool-pie-screenshot.png)(https://www.youtube.com/watch?v=dahqZJcAUCo&lc=z22oc3a4jx2qhrx0zacdp430qvgs4t5scbyyz01l3qhw03c010c.1528394487687276)
+!['Pie Boolean Menu'](https://raw.githubusercontent.com/wiki/schroef/heavypoly-pie-boolean/images/bool-pie-screenshot.png)
 >Preview of pie boolean menu
 
-!['Popup Boolean Menu'](https://raw.githubusercontent.com/wiki/schroef/heavypoly-pie-boolean/images/bool-wmmenu-screenshot.png)(https://www.youtube.com/watch?v=dahqZJcAUCo&lc=z22oc3a4jx2qhrx0zacdp430qvgs4t5scbyyz01l3qhw03c010c.1528394487687276)
+!['Popup Boolean Menu'](https://raw.githubusercontent.com/wiki/schroef/heavypoly-pie-boolean/images/bool-wmmenu-screenshot.png)
 >Preview of popup Boolean menu
+
+
+## Workdflow
+
+Take a look at this video and see how this menu works
+
+!['Workflow using Boolean Pie menu'](https://raw.githubusercontent.com/wiki/schroef/heavypoly-pie-boolean/images/boolpie-workflow-yt.png)(https://www.youtube.com/watch?v=dahqZJcAUCo&lc=z22oc3a4jx2qhrx0zacdp430qvgs4t5scbyyz01l3qhw03c010c.1528394487687276)
 
 ## Installation Process
 
