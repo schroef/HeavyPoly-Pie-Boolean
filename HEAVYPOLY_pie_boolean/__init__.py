@@ -1,12 +1,13 @@
 bl_info = {
 	"name": "HP Boolean Pie",
 	"description": "",
-	"author": "Vaughan Ling",
-	"version": (0, 1, ),
+	"author": "Vaughan Ling // Rombout Versluijs",
+	"version": (0, 1, 5 ),
 	"blender": (2, 79, 0),
 	"location": "",
 	"warning": "",
-	"wiki_url": "",
+	"wiki_url": "https://github.com/schroef/HeavyPoly-Pie-Boolean/",
+	"tracker_url": "https://github.com/schroef/HeavyPoly-Pie-Boolean/issues",
 	"category": "Pie Menu"
 	}
 import bpy
