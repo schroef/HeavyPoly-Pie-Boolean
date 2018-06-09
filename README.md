@@ -2,10 +2,10 @@
 
 HP Pie Boolean is a <b>[Blender](https://www.blender.org)</b> add-on to quickly use booleans either in edit mode or object mode. This code is originally developed by Vaughan Ling, he has some more excellent tools you can find at <b>[gumroad.com/vling](https://gumroad.com/vling)</b>
 
-!['Pie Boolean Menu'](https://raw.githubusercontent.com/wiki/schroef/heavypoly-pie-boolean/images/bool-pie-screenshot.png)
+!['Pie Boolean Menu'](https://raw.githubusercontent.com/wiki/schroef/heavypoly-pie-boolean/images/bool-pie-screenshot.png)(https://www.youtube.com/watch?v=dahqZJcAUCo&lc=z22oc3a4jx2qhrx0zacdp430qvgs4t5scbyyz01l3qhw03c010c.1528394487687276)
 >Preview of pie boolean menu
 
-!['Popup Boolean Menu'](https://raw.githubusercontent.com/wiki/schroef/heavypoly-pie-boolean/images/bool-wmmenu-screenshot.png)
+!['Popup Boolean Menu'](https://raw.githubusercontent.com/wiki/schroef/heavypoly-pie-boolean/images/bool-wmmenu-screenshot.png)(https://www.youtube.com/watch?v=dahqZJcAUCo&lc=z22oc3a4jx2qhrx0zacdp430qvgs4t5scbyyz01l3qhw03c010c.1528394487687276)
 >Preview of popup Boolean menu
 
 ## Installation Process
@@ -17,7 +17,7 @@ HP Pie Boolean is a <b>[Blender](https://www.blender.org)</b> add-on to quickly 
 5. At the bottom of the window, choose *Install From File*.
 6. Select the file `screen_switcher_VERSION.zip` from your download location..
 7. Activate the checkbox for the plugin that you will now find in the list.
-8. Setting up hotkeys:<br>- Set a hotkey for each screen by opening the keyitem (small arrow).<br><br>- Set a hotkey for the item.
+8. Setting up hotkeys:<br>- Set a hotkey for each screen by opening the keyitem (small arrow).<br>- Set a hotkey for the item.
 8. Now using this key you either call the Pie menu or the Popup menu.
 
 
